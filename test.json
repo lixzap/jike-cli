@@ -1,0 +1,1221 @@
+{
+  screenName: '栗噔噔',
+  createdAt: '2017-10-13T16:00:00.000Z',
+  updatedAt: '2018-10-09T07:00:57.267Z',
+  isVerified: false,
+  verifyMessage: '',
+  briefIntro: 'Big brother is watching you.',
+  avatarImage: [Object],
+  profileImageUrl: 'https://cdn.ruguoapp.com/Fufp61lNnZA60HA_zcXkdCAF83oN.jpg?imageView2/0/w/120/h/120/q/100!',
+  trailingIcons: [Array],
+  statsCount: [Object],
+  backgroundImage: [Object],
+  bio: 'Big brother is watching you.',
+  gender: 'FEMALE',
+  city: '-1',
+  country: '001',
+  province: '-1',
+  ref: 'FOLLOWINGS_FEED',
+  following: true
+},
+createdAt: '2018-10-09T09:27:22.494Z',
+  isFeatured: false,
+  rollouts: {
+    wmpShare: [Object]
+  },
+  readTrackInfo: {
+    feedType: 'FOLLOWING_UPDATES'
+  }
+}, {
+  id: '5bbc74245f63e80017fbb3d9',
+  type: 'ORIGINAL_POST',
+  content: '抽个奖，中奖的人要被没中奖的轮流点外卖。\n\n评论即参与，不许退出🌝\n没抽中就要给人点外卖，一人一顿。\n\n周三晚9点开奖，看看谁是这个幸运儿。',
+  urlsInText: [],
+  status: 'NORMAL',
+  isCommentForbidden: false,
+  likeCount: 5,
+  commentCount: 0,
+  repostCount: 0,
+  topic: {
+    id: '5a4b7b688fc40c0011817e97',
+    content: '即刻抽奖',
+    subscribersCount: 8090,
+    squarePicture: [Object],
+    enablePictureComments: true,
+    likeIcon: 'hearteye',
+    isValid: true,
+    topicType: 'OFFICIAL',
+    operateStatus: 'ONLINE',
+    isCommentForbidden: false,
+    enablePictureWatermark: true,
+    tips: [Object],
+    isUserTopicAdmin: false,
+    subscribedStatusRawValue: 1,
+    ref: 'FOLLOWINGS_FEED'
+  },
+  pictures: [
+    [Object]
+  ],
+  collected: false,
+  collectTime: null,
+  user: {
+    username: '3BAC81CE-1E7C-49ED-B79A-414E2B91DA40',
+    screenName: '奖杯',
+    createdAt: '2017-08-17T16:00:00.000Z',
+    updatedAt: '2018-10-09T08:11:19.974Z',
+    isVerified: false,
+    verifyMessage: '',
+    briefIntro: '💎关注之前先洗手！说多少遍了！！\n💎市场营销/ Evernote大使/在黄即提出好问题',
+    avatarImage: [Object],
+    profileImageUrl: 'https://cdn.ruguoapp.com/FkfHaByGYatEnH9UHpa8IAQwfHgT.jpg?imageView2/0/w/120/h/120/q/100!',
+    trailingIcons: [Array],
+    statsCount: [Object],
+    backgroundImage: [Object],
+    bio: '💎关注之前先洗手！说多少遍了！！\n💎市场营销/ Evernote大使/在黄即提出好问题',
+    gender: 'MALE',
+    city: '001031010',
+    country: '001',
+    province: '001031',
+    ref: 'FOLLOWINGS_FEED',
+    following: true
+  },
+  createdAt: '2018-10-09T09:25:56.213Z',
+  isFeatured: false,
+  rollouts: {
+    wmpShare: [Object]
+  },
+  readTrackInfo: {
+    feedType: 'FOLLOWING_UPDATES'
+  }
+}, {
+  id: '5bbc739fc5dcc70017772b5b',
+  type: 'ORIGINAL_POST',
+  content: '收到了@饿女子 黑幕的六种饮料，感觉很厉害的样子。\n\n喝起来~',
+  urlsInText: [],
+  status: 'NORMAL',
+  isCommentForbidden: false,
+  likeCount: 12,
+  commentCount: 3,
+  repostCount: 0,
+  topic: {
+    id: '5a3ba382a5f24f0016ef3d4f',
+    content: '开箱晒物',
+    subscribersCount: 20995,
+    squarePicture: [Object],
+    enablePictureComments: true,
+    isValid: true,
+    topicType: 'OFFICIAL',
+    operateStatus: 'ONLINE',
+    isCommentForbidden: false,
+    enablePictureWatermark: true,
+    tips: [Object],
+    isUserTopicAdmin: false,
+    subscribedStatusRawValue: 1,
+    ref: 'FOLLOWINGS_FEED'
+  },
+  pictures: [
+    [Object]
+  ],
+  collected: false,
+  collectTime: null,
+  user: {
+    username: '3c501eb2-ecf0-47d5-95c2-fdef3ba2c1b3',
+    screenName: '七个梦',
+    createdAt: '2015-09-30T16:00:00.000Z',
+    updatedAt: '2018-10-09T09:24:54.354Z',
+    isVerified: false,
+    verifyMessage: '',
+    briefIntro: '略知一二三四五六七\n一个可能有点有趣的人\n可能是个话痨，谨慎关注\n羡慕狂魔，会点烂梗',
+    avatarImage: [Object],
+    profileImageUrl: 'https://cdn.ruguoapp.com/Fs5THiRDX7oYaCX99NFhi2X6VQ4P.jpg?imageView2/0/w/120/h/120/q/100!',
+    trailingIcons: [Array],
+    statsCount: [Object],
+    backgroundImage: [Object],
+    bio: '略知一二三四五六七\n一个可能有点有趣的人\n可能是个话痨，谨慎关注\n羡慕狂魔，会点烂梗',
+    gender: 'MALE',
+    city: '001035002',
+    country: '001',
+    province: '001035',
+    ref: 'FOLLOWINGS_FEED',
+    following: true
+  },
+  createdAt: '2018-10-09T09:23:43.612Z',
+  isFeatured: false,
+  rollouts: {
+    wmpShare: [Object]
+  },
+  readTrackInfo: {
+    feedType: 'FOLLOWING_UPDATES'
+  }
+}, {
+  id: '5bbc733b38527a001755dd25',
+  type: 'ORIGINAL_POST',
+  content: '嗅到了\n怪蜀黍的气息',
+  urlsInText: [],
+  status: 'NORMAL',
+  isCommentForbidden: false,
+  likeCount: 14,
+  commentCount: 4,
+  repostCount: 0,
+  topic: {
+    id: '56ac86b95761ff120077b341',
+    content: '随手拍张照',
+    subscribersCount: 306325,
+    squarePicture: [Object],
+    enablePictureComments: true,
+    isValid: true,
+    topicType: 'OFFICIAL',
+    operateStatus: 'ONLINE',
+    isCommentForbidden: false,
+    enablePictureWatermark: true,
+    tips: [Object],
+    isUserTopicAdmin: false,
+    subscribedStatusRawValue: 1,
+    ref: 'FOLLOWINGS_FEED'
+  },
+  pictures: [
+    [Object],
+    [Object],
+    [Object]
+  ],
+  collected: false,
+  collectTime: null,
+  user: {
+    username: '24201cef-fe26-4ad8-8284-1adb1a459b44',
+    screenName: '老式滚轮鼠标简称老滚',
+    createdAt: '2018-03-19T16:00:00.000Z',
+    updatedAt: '2018-10-09T09:18:27.575Z',
+    isVerified: true,
+    verifyMessage: '摄影话题优秀贡献者',
+    briefIntro: '摄影话题优秀贡献者',
+    avatarImage: [Object],
+    profileImageUrl: 'https://cdn.ruguoapp.com/FqbiaABXVyobhJi8Hii1VXl4ZgQZ.jpg?imageView2/0/w/120/h/120/q/100!',
+    trailingIcons: [],
+    statsCount: [Object],
+    backgroundImage: [Object],
+    bio: 'Yo!\nMika!',
+    gender: 'MALE',
+    city: '001081014',
+    country: '001',
+    province: '001081',
+    ref: 'FOLLOWINGS_FEED',
+    following: true
+  },
+  createdAt: '2018-10-09T09:22:03.869Z',
+  isFeatured: false,
+  rollouts: {
+    wmpShare: [Object]
+  },
+  readTrackInfo: {
+    feedType: 'FOLLOWING_UPDATES'
+  }
+}, {
+  id: '5bbc72ef90091400170bc053',
+  type: 'ORIGINAL_POST',
+  content: '我可能患了轻度抑郁症',
+  urlsInText: [],
+  status: 'NORMAL',
+  isCommentForbidden: false,
+  likeCount: 3,
+  commentCount: 0,
+  repostCount: 0,
+  pictures: [],
+  collected: false,
+  collectTime: null,
+  user: {
+    username: 'c1c66841-c38b-4f1d-a8e2-8f57259551a9',
+    screenName: '即币',
+    createdAt: '2017-12-13T16:00:00.000Z',
+    updatedAt: '2018-10-09T09:14:41.198Z',
+    isVerified: false,
+    verifyMessage: '',
+    briefIntro: '孤独是一座花园，里面只有一棵树',
+    avatarImage: [Object],
+    profileImageUrl: 'https://cdn.ruguoapp.com/Fqa8q6hSn6KIhVQcoE5SnFSmBbVc.jpg?imageView2/0/w/120/h/120/q/100!',
+    trailingIcons: [],
+    statsCount: [Object],
+    backgroundImage: [Object],
+    bio: '孤独是一座花园，里面只有一棵树',
+    gender: 'MALE',
+    city: '-1',
+    country: '001',
+    province: '-1',
+    ref: 'FOLLOWINGS_FEED',
+    following: true
+  },
+  createdAt: '2018-10-09T09:20:47.749Z',
+  isFeatured: false,
+  rollouts: {
+    wmpShare: [Object]
+  },
+  readTrackInfo: {
+    feedType: 'FOLLOWING_UPDATES'
+  }
+}, {
+  id: '5bbc7295cdf83100172557b4',
+  type: 'ORIGINAL_POST',
+  content: '下雨了，打开窗子，外头的空气真好闻。然而，我的好朋友kk，正躺在医院一群横七竖八的病人中央，在等待手术前绝望的缝隙，写工作总结。我们的生活哦，永远是各有各的不如意，所以，我准备发个自己收藏的中外经典电影片段原声给她听听，这是我的珍宝。。。。你们最近看书了么，我看了《安娜卡列尼娜》，啊，我好喜欢悲剧哦，除了《巴黎圣母院》，只感受到了畸形，感受不到美。。',
+  urlsInText: [],
+  status: 'NORMAL',
+  isCommentForbidden: false,
+  likeCount: 3,
+  commentCount: 0,
+  repostCount: 0,
+  pictures: [
+    [Object],
+    [Object],
+    [Object]
+  ],
+  collected: false,
+  collectTime: null,
+  user: {
+    username: 'CA12C1D3-09DA-498C-8060-51D7546C3F8E',
+    screenName: '蒋希望',
+    createdAt: '2017-09-30T16:00:00.000Z',
+    updatedAt: '2018-10-09T09:25:38.589Z',
+    isVerified: false,
+    verifyMessage: '',
+    briefIntro: '把这一生就浪到了天涯海角',
+    avatarImage: [Object],
+    profileImageUrl: 'https://cdn.ruguoapp.com/FkMT7Tat2Dl-vm53JZsSd_t6sMeP.png?imageView2/0/w/120/h/120/q/100!',
+    trailingIcons: [],
+    statsCount: [Object],
+    backgroundImage: [Object],
+    bio: '把这一生就浪到了天涯海角',
+    gender: 'FEMALE',
+    city: '001033001',
+    country: '001',
+    province: '001033',
+    ref: 'FOLLOWINGS_FEED',
+    following: true
+  },
+  createdAt: '2018-10-09T09:19:17.963Z',
+  isFeatured: false,
+  rollouts: {
+    wmpShare: [Object]
+  },
+  readTrackInfo: {
+    feedType: 'FOLLOWING_UPDATES'
+  }
+}, {
+  id: '5bbc7266aabc0300179bd285',
+  type: 'PERSONAL_UPDATE',
+  actionTime: '2018-10-09T09:18:30.504Z',
+  createdAt: '2018-10-09T09:18:30.676Z',
+  updateIds: ['5bbc7266aabc0300179bd285'],
+  action: 'USER_FOLLOW',
+  usernames: ['F39BF844-7BF9-4754-8E7C-189CA3A35644'],
+  targetUsernames: ['3A27EDB4-A3E0-4EFA-A468-D7B1346D0ABC'],
+  users: [
+    [Object]
+  ],
+  targetUsers: [
+    [Object]
+  ],
+  readTrackInfo: {
+    feedType: 'FOLLOWING_UPDATES'
+  }
+}, {
+  id: '5bbc71ddc932c60017398a4e',
+  type: 'ORIGINAL_POST',
+  content: '今天终于去办身份证了，告别18岁的鹅蛋脸，不知道发哪个tag发自拍里就完事儿了🤪',
+  urlsInText: [],
+  status: 'NORMAL',
+  isCommentForbidden: false,
+  likeCount: 4,
+  commentCount: 2,
+  repostCount: 0,
+  topic: {
+    id: '5a41fbc3458fab0011d4f2a6',
+    content: '晒晒自拍',
+    subscribersCount: 125470,
+    squarePicture: [Object],
+    enablePictureComments: true,
+    isValid: true,
+    topicType: 'OFFICIAL',
+    operateStatus: 'ONLINE',
+    isCommentForbidden: false,
+    enablePictureWatermark: true,
+    tips: [Object],
+    isUserTopicAdmin: false,
+    subscribedStatusRawValue: 0,
+    ref: 'FOLLOWINGS_FEED'
+  },
+  pictures: [
+    [Object],
+    [Object]
+  ],
+  collected: false,
+  collectTime: null,
+  user: {
+    username: 'A844D5ED-B3EF-4AB1-BE8B-B2EB1C08188C',
+    screenName: '师师sama',
+    createdAt: '2018-07-15T16:00:00.000Z',
+    updatedAt: '2018-10-09T09:17:45.703Z',
+    isVerified: false,
+    verifyMessage: '',
+    briefIntro: '精神状态不好，不喜欢交朋友。',
+    avatarImage: [Object],
+    profileImageUrl: 'https://cdn.ruguoapp.com/FpZr985qHe4QIBeXSSzAnteXiI4a.jpg?imageView2/0/w/120/h/120/q/100!',
+    trailingIcons: [],
+    statsCount: [Object],
+    backgroundImage: [Object],
+    bio: '精神状态不好，不喜欢交朋友。',
+    gender: 'FEMALE',
+    city: '001032001',
+    country: '001',
+    province: '001032',
+    ref: 'FOLLOWINGS_FEED',
+    following: true
+  },
+  createdAt: '2018-10-09T09:16:13.373Z',
+  isFeatured: false,
+  rollouts: {
+    wmpShare: [Object]
+  },
+  readTrackInfo: {
+    feedType: 'FOLLOWING_UPDATES'
+  }
+}, {
+  id: '5bbc71d4e24a2f001760847b',
+  type: 'PERSONAL_UPDATE',
+  actionTime: '2018-10-09T09:16:03.995Z',
+  createdAt: '2018-10-09T09:16:04.116Z',
+  updateIds: ['5bbc71d4e24a2f001760847b'],
+  action: 'USER_FOLLOW',
+  usernames: ['EDA1B6C8-032F-4CAD-92A2-92429E10F262'],
+  targetUsernames: ['d6b41a6c-9337-4494-a8a7-31c803fb39eb'],
+  users: [
+    [Object]
+  ],
+  targetUsers: [
+    [Object]
+  ],
+  readTrackInfo: {
+    feedType: 'FOLLOWING_UPDATES'
+  }
+}, {
+  type: 'REPOST',
+  id: '5bbc714185b8740011ea6813',
+  content: '',
+  urlsInText: [],
+  status: 'NORMAL',
+  user: {
+    username: '564e02d3-9ffe-461b-95c8-fcf5afae9898',
+    screenName: 'fmxxx点儿',
+    createdAt: '2017-12-19T16:00:00.000Z',
+    updatedAt: '2018-10-09T09:26:01.308Z',
+    isVerified: true,
+    verifyMessage: '摄影话题优秀贡献者',
+    briefIntro: '摄影话题优秀贡献者',
+    avatarImage: [Object],
+    profileImageUrl: 'https://cdn.ruguoapp.com/FlDuKGi8vQuDeVkVgW_J2f46Mq-S.png?imageView2/0/w/120/h/120/q/100!',
+    trailingIcons: [],
+    statsCount: [Object],
+    backgroundImage: [Object],
+    bio: '变得不有趣了。\nfangfacai.com   施工中',
+    gender: 'MALE',
+    city: '001031001',
+    country: '001',
+    province: '001031',
+    following: true,
+    ref: 'FOLLOWINGS_FEED'
+  },
+  target: {
+    type: 'REPOST',
+    id: '5bbc70634b1237001128fe8a',
+    content: '新一期怼片活动，主题人文纪实，嘉宾张宁。\n\n现在开始报名，活动开始时间，10月12日晚20:30。',
+    urlsInText: [],
+    status: 'NORMAL',
+    user: [Object],
+    commentCount: 0,
+    repostCount: 2,
+    likeCount: 5,
+    pictures: [],
+    createdAt: '2018-10-09T09:09:55.483Z',
+    liked: false,
+    collected: false
+  },
+  targetType: 'REPOST',
+  commentCount: 0,
+  repostCount: 0,
+  likeCount: 1,
+  pictures: [],
+  createdAt: '2018-10-09T09:13:37.553Z',
+  liked: false,
+  collected: false,
+  readTrackInfo: {
+    feedType: 'FOLLOWING_UPDATES'
+  }
+}, {
+  id: '5bbc711305fb3600173d5328',
+  type: 'ORIGINAL_POST',
+  content: 'Luckin上线企业账户，好奇多少公司会开通账户，咖啡这种小额费用大部分还是员工垫付后置报销吧…谁请客户吃饭会喝Luckin啊…（狗头护体',
+  urlsInText: [],
+  status: 'NORMAL',
+  isCommentForbidden: false,
+  likeCount: 9,
+  commentCount: 5,
+  repostCount: 0,
+  pictures: [
+    [Object]
+  ],
+  collected: false,
+  collectTime: null,
+  user: {
+    username: '5B7A72E6-7EEE-40E8-8C48-0C657C58028C',
+    screenName: '金融街杨超越',
+    createdAt: '2018-05-08T16:00:00.000Z',
+    updatedAt: '2018-10-09T09:25:07.237Z',
+    isVerified: true,
+    verifyMessage: '互联网话题优秀贡献者',
+    briefIntro: '互联网话题优秀贡献者',
+    avatarImage: [Object],
+    profileImageUrl: 'https://cdn.ruguoapp.com/FhF9i0w4qDzw_T4i4nqWo0pdn-lZ.jpg?imageView2/0/w/120/h/120/q/100!',
+    trailingIcons: [Array],
+    statsCount: [Object],
+    backgroundImage: [Object],
+    bio: 'TMT | Pharma \n十八线相声演员 南航粉丝\n不代表机构观点',
+    gender: 'FEMALE',
+    city: '-1',
+    country: '217',
+    province: '-1',
+    ref: 'FOLLOWINGS_FEED',
+    following: true
+  },
+  createdAt: '2018-10-09T09:12:51.229Z',
+  isFeatured: false,
+  rollouts: {
+    wmpShare: [Object]
+  },
+  readTrackInfo: {
+    feedType: 'FOLLOWING_UPDATES'
+  }
+}, {
+  id: '5bbc70fd5f63e80017fbb3c9',
+  type: 'ORIGINAL_POST',
+  content: '再关注1个人就上1000了，抽个奖\n\n评论区选10个人\n\n被我取关',
+  urlsInText: [],
+  status: 'NORMAL',
+  isCommentForbidden: false,
+  likeCount: 37,
+  commentCount: 40,
+  repostCount: 0,
+  topic: {
+    id: '5a4b7b688fc40c0011817e97',
+    content: '即刻抽奖',
+    subscribersCount: 8090,
+    squarePicture: [Object],
+    enablePictureComments: true,
+    likeIcon: 'hearteye',
+    isValid: true,
+    topicType: 'OFFICIAL',
+    operateStatus: 'ONLINE',
+    isCommentForbidden: false,
+    enablePictureWatermark: true,
+    tips: [Object],
+    isUserTopicAdmin: false,
+    subscribedStatusRawValue: 1,
+    ref: 'FOLLOWINGS_FEED'
+  },
+  pictures: [],
+  collected: false,
+  collectTime: null,
+  user: {
+    username: '56bcbeef-0f80-47e2-9ed2-d708e24883c2',
+    screenName: '陆小鸟',
+    createdAt: '2015-09-08T16:00:00.000Z',
+    updatedAt: '2018-10-09T07:37:53.179Z',
+    isVerified: false,
+    verifyMessage: '',
+    briefIntro: '现实是互联网的一部分 Ⓙ',
+    avatarImage: [Object],
+    profileImageUrl: 'https://cdn.ruguoapp.com/FhdbFHHwlAdcpgEYGcsJX7F8Mp2Y.jpg?imageView2/0/w/120/h/120/q/100!',
+    trailingIcons: [],
+    statsCount: [Object],
+    backgroundImage: [Object],
+    bio: '现实是互联网的一部分 Ⓙ',
+    gender: 'MALE',
+    city: '001031010',
+    country: '001',
+    province: '001031',
+    ref: 'FOLLOWINGS_FEED',
+    following: true
+  },
+  createdAt: '2018-10-09T09:12:29.400Z',
+  isFeatured: false,
+  rollouts: {
+    wmpShare: [Object]
+  },
+  readTrackInfo: {
+    feedType: 'FOLLOWING_UPDATES'
+  }
+}, {
+  id: '5bbc70f78d6a11001797fe38',
+  type: 'PERSONAL_UPDATE',
+  actionTime: '2018-10-09T09:12:23.317Z',
+  createdAt: '2018-10-09T09:12:23.454Z',
+  updateIds: ['5bbc70f78d6a11001797fe38'],
+  action: 'USER_FOLLOW',
+  usernames: ['72d697fa-6343-4bbb-acf6-e4a532788ff3'],
+  targetUsernames: ['xueshenghuizhuxi'],
+  users: [
+    [Object]
+  ],
+  targetUsers: [
+    [Object]
+  ],
+  readTrackInfo: {
+    feedType: 'FOLLOWING_UPDATES'
+  }
+}, {
+  id: '5bbc6f4d36f3440016184051',
+  type: 'ORIGINAL_POST',
+  content: '【腾讯高位累跌近四成 市值失守2.8万亿港元跌出全球十大】腾讯收跌1.7%，报293.8港元，以收市价计，腾讯市值跌破2.8万亿港元，较今年低高位大跌近四成，市值跌出全球十大。（香港经济日报）\n\n原文链接：https://36kr.com/newsflashes/139436',
+  urlsInText: [
+    [Object]
+  ],
+  status: 'NORMAL',
+  isCommentForbidden: false,
+  likeCount: 35,
+  commentCount: 19,
+  repostCount: 0,
+  topic: {
+    id: '56dfc725b227d41100fe0396',
+    content: '大公司头条',
+    subscribersCount: 1100000,
+    squarePicture: [Object],
+    enablePictureComments: true,
+    isValid: true,
+    topicType: 'CUSTOM',
+    operateStatus: 'ONLINE',
+    isCommentForbidden: false,
+    enablePictureWatermark: true,
+    tips: [Object],
+    isUserTopicAdmin: false,
+    subscribedStatusRawValue: 0,
+    ref: 'FOLLOWINGS_FEED'
+  },
+  pictures: [],
+  collected: false,
+  collectTime: null,
+  user: {
+    username: 'jikekeji01',
+    screenName: '科技编辑',
+    createdAt: '2018-06-04T16:00:00.000Z',
+    updatedAt: '2018-10-09T07:07:52.129Z',
+    isVerified: true,
+    verifyMessage: '即刻官方账号',
+    briefIntro: '即刻官方账号',
+    avatarImage: [Object],
+    profileImageUrl: 'https://cdn.ruguoapp.com/FkjtylmqV4QYJxj0XSdJVSSNJ5m3.jpg?imageView2/0/w/120/h/120/q/100!',
+    trailingIcons: [],
+    statsCount: [Object],
+    backgroundImage: [Object],
+    bio: '即厂科技圈第一C位！',
+    ref: 'FOLLOWINGS_FEED',
+    following: true
+  },
+  createdAt: '2018-10-09T09:05:17.954Z',
+  messageId: '5bbc6f4eda850e00931687c5',
+  isFeatured: true,
+  rollouts: {
+    wmpShare: [Object]
+  },
+  readTrackInfo: {
+    feedType: 'FOLLOWING_UPDATES'
+  }
+}, {
+  id: '5bbc6f3dd967650017217c57',
+  type: 'ORIGINAL_POST',
+  content: '用伯爵红茶加牛奶泡了一杯奶茶，总感觉不像奶茶该有的味道，大概是因为少了一次性塑料杯和吸管，没有形式感，丢失了奶茶的灵魂。',
+  urlsInText: [],
+  status: 'NORMAL',
+  isCommentForbidden: false,
+  liked: true,
+  likeCount: 16,
+  commentCount: 2,
+  repostCount: 0,
+  topic: {
+    id: '5ab89ff5892a1a0011d1ba87',
+    content: '记一件小事',
+    subscribersCount: 37841,
+    squarePicture: [Object],
+    enablePictureComments: true,
+    isValid: true,
+    topicType: 'OFFICIAL',
+    operateStatus: 'ONLINE',
+    isCommentForbidden: false,
+    enablePictureWatermark: true,
+    tips: [Object],
+    isUserTopicAdmin: false,
+    subscribedStatusRawValue: 1,
+    ref: 'FOLLOWINGS_FEED'
+  },
+  pictures: [],
+  collected: false,
+  collectTime: null,
+  user: {
+    username: '90546c8c-2879-4d8e-9f89-64b70cb86dca',
+    screenName: '中村网通',
+    createdAt: '2016-09-26T16:00:00.000Z',
+    updatedAt: '2018-10-09T09:25:24.609Z',
+    isVerified: true,
+    verifyMessage: '文化话题优秀贡献者',
+    briefIntro: '文化话题优秀贡献者',
+    avatarImage: [Object],
+    profileImageUrl: 'https://cdn.ruguoapp.com/Fpda0bhJNmsxgEfBhY9K8bLEv_0x.jpg?imageView2/0/w/120/h/120/q/100!',
+    trailingIcons: [],
+    statsCount: [Object],
+    backgroundImage: [Object],
+    bio: '动态不定时删\n没什么值得关注的',
+    gender: 'MALE',
+    city: '-1',
+    country: '048',
+    province: '-1',
+    ref: 'FOLLOWINGS_FEED',
+    following: true
+  },
+  createdAt: '2018-10-09T09:05:01.412Z',
+  isFeatured: false,
+  rollouts: {
+    wmpShare: [Object]
+  },
+  readTrackInfo: {
+    feedType: 'FOLLOWING_UPDATES'
+  }
+}, {
+  id: '5bbc6eae36f344001618404d',
+  type: 'ORIGINAL_POST',
+  content: '在只有3个粉丝的主题获得一次精选\n\n即尼斯纪录保持者',
+  urlsInText: [],
+  status: 'NORMAL',
+  isCommentForbidden: false,
+  likeCount: 32,
+  commentCount: 7,
+  repostCount: 0,
+  topic: {
+    id: '5b0511345690b700178764b1',
+    content: '一个纪录达成',
+    subscribersCount: 3706,
+    squarePicture: [Object],
+    enablePictureComments: true,
+    isValid: true,
+    topicType: 'OFFICIAL',
+    operateStatus: 'ONLINE',
+    isCommentForbidden: false,
+    enablePictureWatermark: true,
+    tips: [Object],
+    isUserTopicAdmin: false,
+    subscribedStatusRawValue: 0,
+    ref: 'FOLLOWINGS_FEED'
+  },
+  pictures: [
+    [Object]
+  ],
+  collected: false,
+  collectTime: null,
+  user: {
+    username: '56bcbeef-0f80-47e2-9ed2-d708e24883c2',
+    screenName: '陆小鸟',
+    createdAt: '2015-09-08T16:00:00.000Z',
+    updatedAt: '2018-10-09T07:37:53.179Z',
+    isVerified: false,
+    verifyMessage: '',
+    briefIntro: '现实是互联网的一部分 Ⓙ',
+    avatarImage: [Object],
+    profileImageUrl: 'https://cdn.ruguoapp.com/FhdbFHHwlAdcpgEYGcsJX7F8Mp2Y.jpg?imageView2/0/w/120/h/120/q/100!',
+    trailingIcons: [],
+    statsCount: [Object],
+    backgroundImage: [Object],
+    bio: '现实是互联网的一部分 Ⓙ',
+    gender: 'MALE',
+    city: '001031010',
+    country: '001',
+    province: '001031',
+    ref: 'FOLLOWINGS_FEED',
+    following: true
+  },
+  createdAt: '2018-10-09T09:02:38.932Z',
+  isFeatured: false,
+  rollouts: {
+    wmpShare: [Object]
+  },
+  readTrackInfo: {
+    feedType: 'FOLLOWING_UPDATES'
+  }
+}, {
+  id: '5bbc6e800dba2c00161a16b8',
+  repostCount: 0,
+  createdAt: '2018-10-09T09:01:52.857Z',
+  type: 'ANSWER',
+  questionId: '5bbb3f070dba2c00161a146e',
+  question: {
+    id: '5bbb3f070dba2c00161a146e',
+    type: 'QUESTION',
+    title: '你心目中最接近爱情本质的电影是什么？',
+    content: '',
+    urlsInText: [],
+    pictures: [],
+    answerCount: 139,
+    topic: [Object],
+    status: 'NORMAL'
+  },
+  commentCount: 4,
+  user: {
+    username: '75020DD2-46C4-4E32-A573-B4E4243FCEAB',
+    screenName: 'Anakin',
+    createdAt: '2015-04-06T16:00:00.000Z',
+    updatedAt: '2018-10-09T08:02:23.070Z',
+    isVerified: true,
+    verifyMessage: '摄影话题优秀贡献者',
+    briefIntro: '摄影话题优秀贡献者',
+    avatarImage: [Object],
+    profileImageUrl: 'https://cdn.ruguoapp.com/FtZxWoD6x9JpJxT6Bvzvgm3DN7gq.jpg?imageView2/0/w/120/h/120/q/100!',
+    trailingIcons: [Array],
+    statsCount: [Object],
+    id: '5523cc02e4b01e65afc44619',
+    backgroundImage: [Object],
+    bio: 'within without',
+    gender: 'MALE',
+    city: '-1',
+    country: '149',
+    province: '-1',
+    following: true,
+    ref: 'FOLLOWINGS_FEED'
+  },
+  upVoteCount: 16,
+  voteTend: 'up',
+  collected: false,
+  status: 'NORMAL',
+  urlsInText: [],
+  richtextContent: {
+    entityMap: {},
+    blocks: [Array]
+  },
+  readTrackInfo: {
+    feedType: 'FOLLOWING_UPDATES'
+  }
+}, {
+  id: '5bbc6e7a38527a001755dd14',
+  type: 'ORIGINAL_POST',
+  content: '今天不努力争取你想要的生活，明天就不得不花更多的精力应对你不想要的生活。\n(鸡汤一下🙃，所以，请加油！',
+  urlsInText: [],
+  status: 'NORMAL',
+  isCommentForbidden: false,
+  likeCount: 6,
+  commentCount: 0,
+  repostCount: 0,
+  topic: {
+    id: '56d177a27cb3331100465f72',
+    content: '今日金句',
+    subscribersCount: 1100000,
+    squarePicture: [Object],
+    enablePictureComments: true,
+    isValid: true,
+    topicType: 'OFFICIAL',
+    operateStatus: 'ONLINE',
+    isCommentForbidden: false,
+    enablePictureWatermark: true,
+    tips: [Object],
+    isUserTopicAdmin: false,
+    subscribedStatusRawValue: 2,
+    ref: 'FOLLOWINGS_FEED'
+  },
+  pictures: [],
+  collected: false,
+  collectTime: null,
+  user: {
+    username: '78e8dbea-bcfe-410f-8bfd-7580fcaffd43',
+    screenName: 'JustCode_Sinyu',
+    createdAt: '2017-03-10T16:00:00.000Z',
+    updatedAt: '2018-10-09T09:04:36.600Z',
+    isVerified: false,
+    verifyMessage: '',
+    briefIntro: 'Android魔法师; 慢热长情; 更有趣; 间歇性活跃用户;',
+    avatarImage: [Object],
+    profileImageUrl: 'https://cdn.ruguoapp.com/Fl4phHxChqVgocH5AL6u4lpNtAiK.png?imageView2/0/w/120/h/120/q/100!',
+    trailingIcons: [],
+    statsCount: [Object],
+    backgroundImage: [Object],
+    bio: 'Android魔法师; 慢热长情; 更有趣; 间歇性活跃用户;',
+    gender: 'MALE',
+    city: '001032009',
+    country: '001',
+    province: '001032',
+    ref: 'FOLLOWINGS_FEED',
+    following: true
+  },
+  createdAt: '2018-10-09T09:01:46.393Z',
+  isFeatured: false,
+  rollouts: {
+    wmpShare: [Object]
+  },
+  readTrackInfo: {
+    feedType: 'FOLLOWING_UPDATES'
+  }
+}, {
+  type: 'REPOST',
+  id: '5bbc6e0b4b1237001128fe67',
+  content: '“发帖看指北，被呛不靠北”（the slogan is not very friendly, please report abuse if insulted）',
+  urlsInText: [],
+  status: 'NORMAL',
+  user: {
+    username: '8263aa66-f38c-4d5a-8f29-a22ebe2ed343',
+    screenName: '宇宙',
+    createdAt: '2015-08-25T16:00:00.000Z',
+    updatedAt: '2018-10-09T09:19:40.162Z',
+    isVerified: true,
+    verifyMessage: '文化话题优秀贡献者',
+    briefIntro: '文化话题优秀贡献者',
+    avatarImage: [Object],
+    profileImageUrl: 'https://cdn.ruguoapp.com/FlR0xrHjAMYg_fhD1I44B8FCPM0c.jpg?imageView2/0/w/120/h/120/q/100!',
+    trailingIcons: [],
+    statsCount: [Object],
+    backgroundImage: [Object],
+    bio: '🌈，烂人。字体排印编码，东亚文化迷宫，缺乏系统地了解各种语言，东欧电影爱好者。',
+    gender: 'MALE',
+    city: '001031009',
+    country: '001',
+    province: '001031',
+    following: true,
+    ref: 'FOLLOWINGS_FEED'
+  },
+  target: {
+    id: '5bbc6b79d967650017217c4e',
+    type: 'ORIGINAL_POST',
+    content: '“一起看电影”主题使用指北\n\n1.建议影评发表格式为：#《某某电影》#；评分（五星制）；影评内容。按照此格式发表的影评，将更容易获得精选哦。\n\n2.即刻影迷会入群方式：https://m.okjike.com/originalPosts/5b8e04badf028a00117bacb2?username=7015CFA6-4AB6-4223-9EEF-F3B98EB0D7D1\n\n3.即刻影单计划更新（目前更新至036）：https://m.okjike.com/originalPosts/5bb07885bb3e0b001153254e?username=7015CFA6-4AB6-4223-9EEF-F3B98EB0D7D1\n\n4.主题传送门（相关主题推荐）\n\n豆瓣最新高口碑非院线电影推荐：高口碑、最新、非院线片，满足这三个要求的电影推荐，这个主题更合适；http://web.okjike.com/topic/56839a33fda8ab1400d97e27/official\n\n冷门佳片安利：当你看完一部冷门佳片时，你可以来这个主题安利给其他即友；http://web.okjike.com/topic/5b6a5e6ce65d7e00179674b9/official\n\n恐怖电影俱乐部：恐怖电影爱好者聚集地，关于恐怖电影的见解、分析和推荐，这个主题或许更合适；http://web.okjike.com/topic/5b84edeb6404d200170dff4a/official\n\n漫威超级英雄电影：关于漫威电影的一切，最新消息、观影感受、八卦趣闻，都可以往这个主题发；http://web.okjike.com/topic/554c1cece4b060e1b4b057f3/official',
+    urlsInText: [Array],
+    status: 'NORMAL',
+    isCommentForbidden: false,
+    likeCount: 23,
+    commentCount: 3,
+    repostCount: 3,
+    topic: [Object],
+    pictures: [],
+    collected: false,
+    collectTime: null,
+    user: [Object],
+    createdAt: '2018-10-09T08:48:57.056Z',
+    messageId: '5bbc6c0d56bd62008d678bf6',
+    isFeatured: true,
+    rollouts: [Object],
+    subtitle: '即刻官方账号'
+  },
+  targetType: 'ORIGINAL_POST',
+  commentCount: 2,
+  repostCount: 0,
+  likeCount: 8,
+  pictures: [],
+  createdAt: '2018-10-09T08:59:55.772Z',
+  liked: false,
+  collected: false,
+  readTrackInfo: {
+    feedType: 'FOLLOWING_UPDATES'
+  }
+}, {
+  id: '5bbc6da1d967650017217c52',
+  type: 'ORIGINAL_POST',
+  content: '哈哈哈哈哈哈，广场终于开了。\n分享一波喜庆风主角。\n图片出处见水印。',
+  urlsInText: [],
+  status: 'NORMAL',
+  isCommentForbidden: false,
+  likeCount: 25,
+  commentCount: 5,
+  repostCount: 0,
+  topic: {
+    id: '5bbc16352fd0d400166760b6',
+    content: '一起看《JOJO的奇妙冒险》',
+    subscribersCount: 43,
+    squarePicture: [Object],
+    enablePictureComments: true,
+    isValid: true,
+    topicType: 'OFFICIAL',
+    operateStatus: 'ONLINE',
+    isCommentForbidden: false,
+    enablePictureWatermark: true,
+    tips: [Object],
+    isUserTopicAdmin: false,
+    subscribedStatusRawValue: 0,
+    ref: 'FOLLOWINGS_FEED'
+  },
+  pictures: [
+    [Object],
+    [Object],
+    [Object]
+  ],
+  collected: false,
+  collectTime: null,
+  user: {
+    username: 'F3CF43CB-2620-4664-A581-1AD2E3559F50',
+    screenName: '陈不撕',
+    createdAt: '2017-02-12T16:00:00.000Z',
+    updatedAt: '2018-10-09T08:58:37.415Z',
+    isVerified: true,
+    verifyMessage: '互联网话题优秀贡献者',
+    briefIntro: '互联网话题优秀贡献者',
+    avatarImage: [Object],
+    profileImageUrl: 'https://cdn.ruguoapp.com/FnBnA02LQp2tJR_6EZqtCJ8V1pRb.jpg?imageView2/0/w/120/h/120/q/100!',
+    trailingIcons: [Array],
+    statsCount: [Object],
+    backgroundImage: [Object],
+    bio: '以前是个中二，暂时是个产品，目标是个作家。\nStay Young And NB',
+    gender: 'MALE',
+    city: '001044003',
+    country: '001',
+    province: '001044',
+    ref: 'FOLLOWINGS_FEED',
+    following: true
+  },
+  createdAt: '2018-10-09T08:58:09.951Z',
+  messageId: '5bbc6fe9f18bdc0093e910a7',
+  isFeatured: true,
+  rollouts: {
+    wmpShare: [Object]
+  },
+  readTrackInfo: {
+    feedType: 'FOLLOWING_UPDATES'
+  }
+}, {
+  type: 'REPOST',
+  id: '5bbc6d7c4b1237001128fe5e',
+  content: '',
+  urlsInText: [],
+  status: 'NORMAL',
+  user: {
+    username: '56bcbeef-0f80-47e2-9ed2-d708e24883c2',
+    screenName: '陆小鸟',
+    createdAt: '2015-09-08T16:00:00.000Z',
+    updatedAt: '2018-10-09T07:37:53.179Z',
+    isVerified: false,
+    verifyMessage: '',
+    briefIntro: '现实是互联网的一部分 Ⓙ',
+    avatarImage: [Object],
+    profileImageUrl: 'https://cdn.ruguoapp.com/FhdbFHHwlAdcpgEYGcsJX7F8Mp2Y.jpg?imageView2/0/w/120/h/120/q/100!',
+    trailingIcons: [],
+    statsCount: [Object],
+    backgroundImage: [Object],
+    bio: '现实是互联网的一部分 Ⓙ',
+    gender: 'MALE',
+    city: '001031010',
+    country: '001',
+    province: '001031',
+    following: true,
+    ref: 'FOLLOWINGS_FEED'
+  },
+  target: {
+    id: '5bbc6b79d967650017217c4e',
+    type: 'ORIGINAL_POST',
+    content: '“一起看电影”主题使用指北\n\n1.建议影评发表格式为：#《某某电影》#；评分（五星制）；影评内容。按照此格式发表的影评，将更容易获得精选哦。\n\n2.即刻影迷会入群方式：https://m.okjike.com/originalPosts/5b8e04badf028a00117bacb2?username=7015CFA6-4AB6-4223-9EEF-F3B98EB0D7D1\n\n3.即刻影单计划更新（目前更新至036）：https://m.okjike.com/originalPosts/5bb07885bb3e0b001153254e?username=7015CFA6-4AB6-4223-9EEF-F3B98EB0D7D1\n\n4.主题传送门（相关主题推荐）\n\n豆瓣最新高口碑非院线电影推荐：高口碑、最新、非院线片，满足这三个要求的电影推荐，这个主题更合适；http://web.okjike.com/topic/56839a33fda8ab1400d97e27/official\n\n冷门佳片安利：当你看完一部冷门佳片时，你可以来这个主题安利给其他即友；http://web.okjike.com/topic/5b6a5e6ce65d7e00179674b9/official\n\n恐怖电影俱乐部：恐怖电影爱好者聚集地，关于恐怖电影的见解、分析和推荐，这个主题或许更合适；http://web.okjike.com/topic/5b84edeb6404d200170dff4a/official\n\n漫威超级英雄电影：关于漫威电影的一切，最新消息、观影感受、八卦趣闻，都可以往这个主题发；http://web.okjike.com/topic/554c1cece4b060e1b4b057f3/official',
+    urlsInText: [Array],
+    status: 'NORMAL',
+    isCommentForbidden: false,
+    likeCount: 23,
+    commentCount: 3,
+    repostCount: 3,
+    topic: [Object],
+    pictures: [],
+    collected: false,
+    collectTime: null,
+    user: [Object],
+    createdAt: '2018-10-09T08:48:57.056Z',
+    messageId: '5bbc6c0d56bd62008d678bf6',
+    isFeatured: true,
+    rollouts: [Object],
+    subtitle: '即刻官方账号'
+  },
+  targetType: 'ORIGINAL_POST',
+  commentCount: 1,
+  repostCount: 0,
+  likeCount: 9,
+  pictures: [],
+  createdAt: '2018-10-09T08:57:32.241Z',
+  liked: false,
+  collected: false,
+  readTrackInfo: {
+    feedType: 'FOLLOWING_UPDATES'
+  }
+}, {
+  id: '5bbc6d4038527a001755dd0d',
+  type: 'ORIGINAL_POST',
+  content: '果果终于坐我书包上了',
+  urlsInText: [],
+  status: 'NORMAL',
+  isCommentForbidden: false,
+  liked: true,
+  likeCount: 62,
+  commentCount: 12,
+  repostCount: 0,
+  topic: {
+    id: '55d6de4660b2719eb447649a',
+    content: '即刻九号工友“果果”和小伙伴们',
+    subscribersCount: 56857,
+    squarePicture: [Object],
+    enablePictureComments: true,
+    likeIcon: 'guoguoFish',
+    isValid: true,
+    topicType: 'CUSTOM',
+    operateStatus: 'ONLINE',
+    isCommentForbidden: false,
+    enablePictureWatermark: true,
+    tips: [Object],
+    isUserTopicAdmin: false,
+    subscribedStatusRawValue: 0,
+    ref: 'FOLLOWINGS_FEED'
+  },
+  pictures: [
+    [Object]
+  ],
+  collected: false,
+  collectTime: null,
+  user: {
+    username: 'd25026f2-18ce-48aa-9ea7-c05a25446368',
+    screenName: '方的胖虎',
+    createdAt: '2015-08-09T16:00:00.000Z',
+    updatedAt: '2018-10-09T05:13:30.985Z',
+    isVerified: false,
+    verifyMessage: '',
+    briefIntro: 'Hardcore player\nKeyboard dancer',
+    avatarImage: [Object],
+    profileImageUrl: 'https://cdn.ruguoapp.com/FrGXfh_JwEUEPE56c9N-cRE1mgli.png?imageView2/0/w/120/h/120/q/100!',
+    trailingIcons: [],
+    statsCount: [Object],
+    backgroundImage: [Object],
+    bio: 'Hardcore player\nKeyboard dancer',
+    gender: 'MALE',
+    city: '001031010',
+    country: '001',
+    province: '001031',
+    ref: 'FOLLOWINGS_FEED',
+    following: true
+  },
+  createdAt: '2018-10-09T08:56:32.837Z',
+  isFeatured: false,
+  rollouts: {
+    wmpShare: [Object]
+  },
+  readTrackInfo: {
+    feedType: 'FOLLOWING_UPDATES'
+  }
+}, {
+  id: '5bbc6cc9116687001733c62f',
+  type: 'ORIGINAL_POST',
+  content: '翻了几百封信件终于找到了自己的……地址错误被退回来的明信片………',
+  urlsInText: [],
+  status: 'NORMAL',
+  isCommentForbidden: false,
+  likeCount: 26,
+  commentCount: 7,
+  repostCount: 0,
+  pictures: [
+    [Object]
+  ],
+  collected: false,
+  collectTime: null,
+  user: {
+    username: '7B578C46-A99F-42E2-8339-03AC335F8F3D',
+    screenName: '不吃芹菜也不吃香菜',
+    createdAt: '2018-01-03T16:00:00.000Z',
+    updatedAt: '2018-10-09T08:05:12.131Z',
+    isVerified: false,
+    verifyMessage: '',
+    briefIntro: '一切都需底气做支撑。',
+    avatarImage: [Object],
+    profileImageUrl: 'https://cdn.ruguoapp.com/FsR2HnsXSAGktfggYDi4G4B5WBb3.jpg?imageView2/0/w/120/h/120/q/100!',
+    trailingIcons: [],
+    statsCount: [Object],
+    backgroundImage: [Object],
+    bio: '一切都需底气做支撑。',
+    gender: 'FEMALE',
+    city: '001031015',
+    country: '001',
+    province: '001031',
+    ref: 'FOLLOWINGS_FEED',
+    following: true
+  },
+  createdAt: '2018-10-09T08:54:33.439Z',
+  isFeatured: false,
+  rollouts: {
+    wmpShare: [Object]
+  },
+  readTrackInfo: {
+    feedType: 'FOLLOWING_UPDATES'
+  }
+}, {
+  id: '5bbc6a79c5dcc70017772b3d',
+  type: 'ORIGINAL_POST',
+  content: '收到请回复是礼貌尊重还是道德绑架？\n明确需要回复的消息是应该回复，但群发非紧急内容也强制要求回复是不是过分了，和直男癌是一类癌吧。',
+  urlsInText: [],
+  status: 'NORMAL',
+  isCommentForbidden: false,
+  likeCount: 11,
+  commentCount: 9,
+  repostCount: 0,
+  topic: {
+    id: '5a9403e049303a001759aa8b',
+    content: '这么过分一定发即刻',
+    subscribersCount: 49801,
+    squarePicture: [Object],
+    enablePictureComments: true,
+    isValid: true,
+    topicType: 'OFFICIAL',
+    operateStatus: 'ONLINE',
+    isCommentForbidden: false,
+    enablePictureWatermark: true,
+    tips: [Object],
+    isUserTopicAdmin: false,
+    subscribedStatusRawValue: 0,
+    ref: 'FOLLOWINGS_FEED'
+  },
+  pictures: [],
+  collected: false,
+  collectTime: null,
+  user: {
+    username: '698A5432-E9D1-46BA-9B2E-1CA7314A5C73',
+    screenName: '不会抓水母的章鱼哥',
+    createdAt: '2016-07-13T16:00:00.000Z',
+    updatedAt: '2018-10-09T06:41:50.203Z',
+    isVerified: false,
+    verifyMessage: '',
+    briefIntro: '看到我的鼻子了吗',
+    avatarImage: [Object],
+    profileImageUrl: 'https://cdn.ruguoapp.com/FvjiE1E1lNV6FizipRiIlirsAvF5.png?imageView2/0/w/120/h/120/q/100!',
+    trailingIcons: [],
+    statsCount: [Object],
+    backgroundImage: [Object],
+    bio: '看到我的鼻子了吗',
+    gender: 'MALE',
+    city: '-1',
+    country: '150',
+    province: '-1',
+    ref: 'FOLLOWINGS_FEED',
+    following: true
+  },
+  createdAt: '2018-10-09T08:44:41.346Z',
+  isFeatured: false,
+  rollouts: {
+    wmpShare: [Object]
+  },
+  readTrackInfo: {
+    feedType: 'FOLLOWING_UPDATES'
+  }
+}, {
+  id: '5bbc6a52aabc0300179bcf29',
+  type: 'PERSONAL_UPDATE',
+  actionTime: '2018-10-09T08:44:01.927Z',
+  createdAt: '2018-10-09T08:44:02.041Z',
+  updateIds: ['5bbc6a52aabc0300179bcf29'],
+  action: 'USER_FOLLOW',
+  usernames: ['75B2B262-2CE4-4682-B349-37C6A970C4B2'],
+  targetUsernames: ['511bed8d-0f9b-4c24-b2e8-7007426b3106'],
+  users: [
+    [Object]
+  ],
+  targetUsers: [
+    [Object]
+  ],
+  readTrackInfo: {
+    feedType: 'FOLLOWING_UPDATES'
+  }
+}]
+}
